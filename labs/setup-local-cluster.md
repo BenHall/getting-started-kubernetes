@@ -51,6 +51,8 @@ chmod u+x kubetctl
 sudo mv kubectl /usr/local/bin/ 
 ```
 
+For OSX use the URL https://storage.googleapis.com/kubernetes-release/release/v1.0.1/bin/darwin/amd64/kubectl
+
 ## Verify the Kubernetes cluster is running
 
 ```
